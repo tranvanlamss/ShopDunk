@@ -1,0 +1,159 @@
+{
+"dataUpdate": {
+  "fileDocument": {
+"department":"SCS",
+    "userName": "namtv1",
+    "memberCode": "00033",
+    "avatar": "",
+    "signature": ""
+  },
+  "personalDetail": {
+    "fullNameVi": "Than Van Nam",
+    "fullNameEn": "Than Van Nam pk",
+    "jobTitle": "Developer",
+    "dateOfBirth": "06/03/2001",
+    "placeOfBirth": "Ha Noi",
+    "gender": "Male",
+    "maritalStatus": null,
+    "homeAddress": "104 Than Van Nam",
+    "mobile": "(+84) 945050003",
+    "email": "Than.Van.Nam@vsi-international.com",
+    "department": "SCS",
+    "status": true,
+    "userUpdate": "test",
+    "lastUpdate": "06/03/2001",
+    "summaryInformation":"test",
+    "referenceIdHexString": "648adb28f1ae8fd0c7ef411f"
+  },
+  "educationHistory": [
+    {
+      "idHexString": "",
+      "fromDate": "06/03/2001",
+      "toDate": "06/03/2001",
+      "userUpdate": "test",
+    "lastUpdate": "06/03/2001",
+      "description": null
+    }
+  ],
+  "courseAttended": [
+    {
+      "fromDate": "06/03/2001",
+      "toDate": "06/03/2001",
+      "schoolCollege": "HA LONG BAY",
+      "name": "ABC",
+      "qualification": "HELLO",
+"userUpdate": "test",
+    "lastUpdate": "06/03/2001"
+    }
+  ],
+  "certificate": [
+    {
+      "idHexString": "",
+      "fromDate": "06/03/2001",
+      "toDate": "06/03/2001",
+      "schoolCollege": "string",
+      "name": "string",
+      "description": "string",
+  "userUpdate": "test",
+    "lastUpdate": "06/03/2001"
+    }
+  ],
+  "employmentHistory": [
+    {
+      "idHexString": "",
+      "fromDate": "06/03/2001",
+      "toDate": "06/03/2001",
+      "company": "vsii",
+      "jobTitle": "PRG",
+      "jobDescription": "Programmer",
+     "userUpdate": "test",
+    "lastUpdate": "06/03/2001"
+    },
+    {
+      "idHexString": "",
+      "fromDate": "06/03/2001",
+      "toDate": "06/03/2001",
+      "company": "abc",
+      "jobTitle": "PRG",
+      "jobDescription": "Programmer",
+  "userUpdate": "test",
+    "lastUpdate": "06/03/2001"
+    }
+  ],
+  "projectReference": [
+    {
+      "fromDate": "06/03/2001",
+      "toDate": "",
+      "projectName": "VCB",
+      "company": "vsii",
+      "client": "VCB",
+      "projectSize": "1 month",
+      "teamSize": "100 man",
+      "position": "Janitor",
+      "responsibilities": "Janitor",
+      "description": "Sanitation",
+      "languages": [
+        "JAVA",
+        "C++"
+      ],
+      "technologies": [
+        "Platform",
+        "Framework"
+      ],
+     "userUpdate": "test",
+    "lastUpdate": "06/03/2001"
+    },
+    {
+      "fromDate": "06/03/2001",
+      "toDate": "06/03/2001",
+      "projectName": "VCB",
+      "company": "vsii",
+      "client": "VCB",
+      "projectSize": "3 month",
+      "teamSize": "120 man",
+      "position": "Janitor",
+      "responsibilities": "Janitor",
+      "description": "Sanitation",
+      "languages": [
+        "JAVA",
+        "C++"
+      ],
+      "technologies": [
+        "Platform",
+        "Framework"
+      ],
+      "userUpdate": "test",
+    "lastUpdate": "06/03/2001"
+    }
+  ],
+  "technologySkill": [
+    {
+       "userUpdate": "test",
+    "lastUpdate": "06/03/2001"
+      "techName": "Java",
+      "experiences": 2,
+      "level": 2,
+      "jobTitle": null
+    }
+  ],
+  "foreignLanguage": [
+    {
+      "name": "EN",
+      "experiences": "10 year",
+      "lastUsed": "Today",
+      "level": 3,
+     "userUpdate": "test",
+    "lastUpdate": "06/03/2001"
+    }
+  ]
+},
+"dataDelete":{
+ "courseAttended": [],
+"educationHistory": [],
+ "certificate": [],
+   "employmentHistory": [],
+   "projectReference": [ "đungbeoIdHextring"],
+   "technologySkill": ["đungdeptraiIdHextring"]
+   "foreignLanguage": ["đungdeptraiIdHextring"]
+}
+}
